@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-chronographer = { path = "/Users/abhishekshivale/Developer/ChronoGrapher/core" }
+chronographer = { path = "https://github.com/GitBrincie212/ChronoGrapher.git" }
 thiserror = "1"
 tokio = { version = "1", features = ["full"] }
 groqai = "0.1.10"

@@ -1,10 +1,10 @@
-###Compiling all problem that i am facing while building this
+### Compiling all the problems I am facing while building this
 
-1. Choosing Cron 
-> well lot of people use traditional Crons but i decided to use Chronographer becausse, myself is active contributor so it was just nice impl for me
+1. Choosing a Cron
+> A lot of people use traditional Crons, but I decided to use Chronographer because I am an active contributor myself, so it was just a nice fit for me.
 
-2. randomness while calling ai using groq 
-> groq model are lite and it good for lit task but it cause to have same answer most of the time. we need `catalyst` to make him random it can be anything news feed or certain article and so i am using hacker news to select random new then 
+2. Randomness while calling AI using Groq
+> Groq models are lightweight and good for light tasks, but they tend to give the same answer most of the time. We need a `catalyst` to make it random — it can be anything like a news feed or a certain article. So I am using Hacker News to select a random news item.
 
-3. not using x api's 
-> well this is just my side project and i dont wanna add new credit to just test so i am using 3rd party api's which would be okay but i will not recommand this api for write opertation (btw i am gonna use different account, not goona expose my real account)
+3. Not using X's API
+> Well, this is just my side project and I don't want to add a new credit card just to test it, so I am using 3rd party APIs instead. This would be okay, but I would not recommend this API for write operations (btw, I am going to use a different account, not going to expose my real account).
