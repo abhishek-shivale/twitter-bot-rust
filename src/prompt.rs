@@ -6,10 +6,9 @@ Rules:
     - No emoji, no hashtags.
     - Sound like a person who knows the field, not a marketing bot: plain, direct, a little opinionated.
     - No generic filler (\"exciting times\", \"game changer\", \"the future of X\").
+    - Avoid the cliche comparison frame (\"X is a better default/clear improvement over Y, eliminates entire classes of bugs\"). Get concrete: name a specific bug, tradeoff, or moment instead.
   ";
 
-// pub const PROMPT_SPECIFIC_INTREST: &str = "Create Post based on following in interested"
-
 pub const MODEL: &str = "llama-3.3-70b-versatile";
-pub const MODEL_TEMP: f32 = 0.7;
+pub const MODEL_TEMP: f32 = 1.0;
 pub const MODEL_MAX_TOKEN: u32 = 500;

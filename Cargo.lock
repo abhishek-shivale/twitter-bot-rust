@@ -1585,6 +1585,9 @@ version = "0.1.0"
 dependencies = [
  "chronographer",
  "groqai",
+ "rand",
+ "reqwest",
+ "serde_json",
  "thiserror 1.0.69",
  "tokio",
 ]

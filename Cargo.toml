@@ -8,3 +8,6 @@ chronographer = { path = "/Users/abhishekshivale/Developer/ChronoGrapher/core" }
 thiserror = "1"
 tokio = { version = "1", features = ["full"] }
 groqai = "0.1.10"
+reqwest = { version = "0.12", features = ["json"] }
+serde_json = "1"
+rand = "0.8"
